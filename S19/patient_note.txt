@@ -1,0 +1,75 @@
+CHIEF COMPLAINT:
+Back pain
+
+HISTORY OF PRESENT ILLNESS:
+A 28-year-old female with a history of morbid obesity presents for chronic multisite musculoskeletal pain and weight gain. Pain has gradually worsened, with the main areas involving the low back as well as bilateral knees and bilateral hips, and it sometimes interferes with daily activities. She has had progressive weight gain over the past 2 years and associates worsening pain with the weight gain. There is a family history of morbid obesity. She reports no trauma or injury. She reports no bladder or bowel incontinence. She is not taking medications regularly except for contraceptive medication. She was previously found to have vitamin D deficiency with a vitamin D level of 17 from her primary care office and has not been taking vitamin D supplementation.
+
+PAST MEDICAL HISTORY:
+- Morbid obesity
+- Vitamin D deficiency
+
+MEDICATIONS:
+- Contraceptive medication
+
+ALLERGIES:
+- NKDA
+
+FAMILY HISTORY:
+- Mother: Morbid obesity
+- Grandmother: Morbid obesity
+
+SOCIAL HISTORY:
+- Lives with significant other
+- Tobacco: Denies cigarette smoking
+- Alcohol: Denies use
+- Illicit substances: Denies use
+
+REVIEW OF SYSTEMS:
+GENERAL: Positive for weight gain
+GU: Negative for urinary incontinence, negative for bowel incontinence
+MSK: Positive for low back pain, positive for bilateral knee pain, positive for bilateral hip pain
+
+VITALS:
+- BMI >54
+
+PHYSICAL EXAM:
+General Appearance: No acute distress, severe obesity
+HEENT: No facial weakness
+Respiratory: No respiratory distress, no stridor
+Abdominal: Soft, distended
+Musculoskeletal: Mid back tenderness, lumbar paraspinal tenderness, SI joint tenderness right greater than left, apparent standing height discrepancy with left side lower than right by about 1.5 inches, bilateral hip tenderness without warmth or effusion, bilateral knee tenderness without warmth or effusion
+Integumentary: No swelling noted
+Neurological: No facial weakness
+
+DIAGNOSTIC STUDIES:
+- 25(OH) vitamin D: 17 (L)
+
+ASSESSMENT AND PLAN
+28-year-old female with morbid obesity (BMI >54) and gradually progressive chronic low back pain with exam notable for SI joint tenderness right greater than left and lumbar paraspinal tenderness, also with bilateral hip and knee pain with tenderness on exam, and known vitamin D deficiency (25(OH) vitamin D 17).
+
+1. MORBID OBESITY
+Severe obesity with progressive weight gain over 2 years and associated functional limitation from pain
+- Counsel on diet control
+- Recommend routine home exercise
+- Start metformin 500 mg twice a day
+
+2. CHRONIC LOW BACK PAIN WITH SACROILIAC JOINT DYSFUNCTION
+Progressive pain with tenderness of lumbar paraspinals and SI joints, right greater than left, with reported improvement after in-office treatment
+- Perform manual manipulation, stretching, and deep tissue massage of mid back, low back, and bilateral SI joints
+- Demonstrate SI joint rehabilitation exercises
+- Start fentanyl 37.5 mg daily
+- Counsel on medication adverse effects and safety issues
+- Recommend nonpharmacologic modalities including heating pad/warm compresses and strengthening exercises
+
+3. CHRONIC HIP AND KNEE PAIN
+Bilateral hip and knee tenderness without warmth or effusion; discussed relationship to obesity and possible degenerative pain
+- Counsel on relationship between obesity and hip/knee pain
+- Recommend nonpharmacologic modalities including heating pad/warm compresses and strengthening exercises
+
+4. VITAMIN D DEFICIENCY
+25(OH) vitamin D 17 with no current supplementation
+- Start vitamin D 50,000 units weekly
+- Counsel on relationship between vitamin D deficiency and chronic pain
+
+Follow-up/Disposition:
+- Follow up in 1 month to reassess response and adjust medications accordingly

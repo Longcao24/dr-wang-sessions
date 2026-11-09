@@ -1,0 +1,67 @@
+CHIEF COMPLAINT:
+Back pain
+
+HISTORY OF PRESENT ILLNESS:
+This 64-year-old male with a history of chronic back pain (status post lower back spine surgery in April 2026), hypertension, and gout arthritis presents for persistent low back pain and progressive gait difficulty. Since the April 2026 operation, hydrocodone acetaminophen was prescribed in different doses for pain control. Pain relief from hydrocodone acetaminophen has been brief with persistent constant pain and intermittent worsening. Pain is located in the lower back with local radiation, right greater than left. Pain has interfered with sleep, and he has felt moody related to pain. Over the past 1 year, he has developed progressive difficulty with ambulation with limb tightness that is worse in the morning than the afternoon, and unsteady gait; he currently uses a long walker for ambulation. He reports difficulty performing household mobility and ADLs.
+
+PAST MEDICAL HISTORY:
+- Chronic back pain
+- Hypertension
+- Gout arthritis
+
+PAST SURGICAL HISTORY:
+- Lower back spine surgery (April 2026)
+
+ALLERGIES:
+- NKTA
+
+FAMILY HISTORY:
+- Family history: Unremarkable
+
+SOCIAL HISTORY:
+- Occupation: Not able to work due to pain and difficulty walking
+- Alcohol: Quit alcohol for more than 1 year
+- Tobacco: Currently decreased cigarette smoking to about 1/2 pack per day or about 1/4 pack per day; previously more than 1 pack per day for more than 30 years
+
+REVIEW OF SYSTEMS:
+GENERAL: Positive for sleep disturbance
+MSK: Positive for low back pain, positive for limb tightness
+NEURO: Positive for unsteady gait, positive for difficulty with ambulation
+PSYCH: Positive for mood changes
+
+PHYSICAL EXAM:
+General Appearance: Slightly emotional
+HEENT: No tearing, no swelling, no facial weakness
+Neck: No rigidity, no JVD, no masses
+Respiratory: No respiratory distress, no chest deformity
+Abdominal: Soft, benign
+Musculoskeletal: Tenderness of mid back, low back, and upper paraspinal muscles, tenderness at bilateral AC joint areas right greater than left, standing height discrepancy with left side about 1.5 inches higher than right, Patrick test positive, straight leg raise test negative bilaterally
+Neurological: Alert, speech fluent and coherent, decreased gait initiation with small-step gait, increased tone and rigidity of bilateral lower extremities, mild tremor of bilateral lower extremities, mild rigidity of upper extremities, finger-to-nose intact
+Psychiatric: Emotional affect when discussing pain
+
+ASSESSMENT AND PLAN
+64-year-old male with chronic back pain status post lumbar spine surgery in April 2026, with persistent low back pain (right greater than left) with impaired sleep and mood changes, and progressive gait impairment over 1 year requiring a walker with increased lower-extremity tone/rigidity and small-step gait on exam. Opioid risks were reviewed and opioid restart was declined. Manual therapy was performed with reported improvement in pain.
+
+1. CHRONIC LOW BACK PAIN
+Persistent postoperative low back pain with local radiation right greater than left and functional impairment; paraspinal tenderness and positive Patrick test
+ - Review New York State PMP
+ - Decline restarting opioid therapy
+ - Perform manual manipulation, deep massage, and stretching of mid back and lower back
+ - Perform manual manipulation of bilateral SI joints
+ - Teach SI joint rehabilitation exercises
+ - Encourage home exercises
+
+2. GAIT DISTURBANCE WITH RIGIDITY AND PARKINSONISM
+Progressive gait difficulty over 1 year with small-step gait and increased tone and rigidity of bilateral lower extremities on exam; concern for dystonia/Parkinsonian features
+ - Start ropinirole 0.5 mg TID
+ - Instruct patient to document symptom changes after starting medication
+
+3. TOBACCO USE DISORDER
+Ongoing cigarette use with reduction from prior heavy use
+ - Provide smoking cessation counseling
+ - Start bupropion 150 mg daily
+
+Follow-up/Disposition:
+- Follow up in 3 weeks
+- Check urine toxicology screen results
+- Close monitoring planned at this time
